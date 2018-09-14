@@ -1,0 +1,152 @@
+Nome Completo;Comentários;Grupo
+Aplicativos;SLA - 4hrs;Central de Serviços
+Aplicativos > Instalação de Programa;SLA - 4hrs;Central de Serviços
+Aplicativos > .NetFramework;SLA - 4hrs;Central de Serviços
+Aplicativos > .NetFramework > Instalar;SLA - 4hrs;Central de Serviços
+Aplicativos > .NetFramework > Atualizar;SLA - 4hrs;Central de Serviços
+Aplicativos > Media Player;SLA - 4hrs;Central de Serviços
+Aplicativos > Media Player > Instalar;SLA - 4hrs;Central de Serviços
+Aplicativos > Media Player > Não Abre;SLA - 4hrs;Central de Serviços
+Aplicativos > Leitores PDF;SLA - 4hrs;Central de Serviços
+Aplicativos > PDF > Apresenta erro;SLA - 4hrs;Central de Serviços
+Aplicativos > PDF > Atualizar;SLA - 4hrs;Central de Serviços
+Aplicativos > PDF> Instalar;SLA - 4hrs;Central de Serviços
+Aplicativos > PDF > Nao abre;SLA - 4hrs;Central de Serviços
+Aplicativos > PDF > Instalar Impressora PDF;SLA - 4hrs;Central de Serviços
+Aplicativos > PDF > Trava;SLA - 4hrs;Central de Serviços
+Aplicativos > Navegadores;SLA - 4hrs;Central de Serviços
+Aplicativos > Navegadores > Apresenta erro;SLA - 4hrs;Central de Serviços
+Aplicativos > Navegadores > Atualizar;SLA - 4hrs;Central de Serviços
+Aplicativos > Navegadores > Instalar;SLA - 4hrs;Central de Serviços
+Aplicativos > Navegadores > Nao abre;SLA - 4hrs;Central de Serviços
+Aplicativos > Navegadores > Trava;SLA - 4hrs;Central de Serviços
+Aplicativos > Antivírus;SLA - 4hrs;Central de Serviços
+Aplicativos > Antivírus > Atualização;SLA - 4hrs;Central de Serviços
+Aplicativos > Antivírus > Desbloqueio de USB;SLA - 4hrs;Central de Serviços
+Aplicativos > Antivírus > Bloqueio de USB;SLA - 4hrs;Central de Serviços
+Aplicativos > Antivírus > Bloqueio de Software;SLA - 4hrs;Central de Serviços
+Aplicativos > Antivírus > Instalação;SLA - 4hrs;Central de Serviços
+Aplicativos > Java;SLA - 4hrs;Central de Serviços
+Aplicativos > Java > Apresenta erro;SLA - 4hrs;Central de Serviços
+Aplicativos > Java > Atualizar;SLA - 4hrs;Central de Serviços
+Aplicativos > Java > Instalar;SLA - 4hrs;Central de Serviços
+Aplicativos > Microsoft Outlook;SLA - 4hrs;Central de Serviços
+Aplicativos > Microsoft Outlook >Assinatura;SLA - 4hrs;Central de Serviços
+Aplicativos > Microsoft Outlook >Configuração de E-mail;SLA - 4hrs;Central de Serviços
+Aplicativos > Microsoft Outlook >Não abre Outlook;SLA - 4hrs;Central de Serviços
+Aplicativos > Microsoft Outlook >Não anexa arquivos;SLA - 4hrs;Central de Serviços
+Aplicativos > Microsoft Outlook >Não envia / não recebe;SLA - 4hrs;Central de Serviços
+Aplicativos > Microsoft Outlook >Sumiram Emails;SLA - 4hrs;Central de Serviços
+Aplicativos > Microsoft Outlook > Realizar Backup;SLA - 4hrs;Central de Serviços
+Aplicativos > Microsoft Outlook >Travando / Travado;SLA - 4hrs;Central de Serviços
+Aplicativos > Office;SLA - 4hrs;Central de Serviços
+Aplicativos > Office > Apresenta erro;SLA - 4hrs;Central de Serviços
+Aplicativos > Office > Atualizar;SLA - 4hrs;Central de Serviços
+Aplicativos > Office > Nao abre;SLA - 4hrs;Central de Serviços
+Aplicativos > Office > Trava;SLA - 4hrs;Central de Serviços
+Backup;SLA - 4hrs;Central de Serviços
+Backup > Troca de Midia;SLA - 4hrs;Central de Serviços
+Backup > Restaurar Arquivos;SLA - 4hrs;Central de Serviços
+Hardware;SLA - 4hrs;Central de Serviços
+Hardware> Desktop;SLA - 4hrs;Central de Serviços
+Hardware> Desktop > Apresenta Lentidão;SLA - 4hrs;Central de Serviços
+Hardware> Desktop > Apresenta Tela Azul;SLA - 4hrs;Central de Serviços
+Hardware> Desktop > Criar Usuário / Perfil da Máquina;SLA - 4hrs;Central de Serviços
+Hardware> Desktop > Fazendo barulho;SLA - 4hrs;Central de Serviços
+Hardware> Desktop > Não Liga;SLA - 4hrs;Central de Serviços
+Hardware> Desktop > Reinicia;SLA - 4hrs;Central de Serviços
+Hardware> Desktop > Solicitar Novo;SLA - 4hrs;Central de Serviços
+Hardware> Desktop > Trava;SLA - 4hrs;Central de Serviços
+Hardware> Desktop >  Sem áudio;SLA - 4hrs;Central de Serviços
+Hardware> Desktop >  Cabo;SLA - 4hrs;Central de Serviços
+Hardware> Mouse;SLA - 4hrs;Central de Serviços
+Hardware> Mouse > Novo;SLA - 4hrs;Central de Serviços
+Hardware> Mouse > Troca;SLA - 4hrs;Central de Serviços
+Hardware> Teclado;SLA - 4hrs;Central de Serviços
+Hardware> Telcado >  Novo;SLA - 4hrs;Central de Serviços
+Hardware> Telcado >  Troca;SLA - 4hrs;Central de Serviços
+Hardware> Teclado >  Desconfigurado;SLA - 4hrs;Central de Serviços
+Hardware> Monitor;SLA - 4hrs;Central de Serviços
+Hardware> Monitor > Não Liga;SLA - 4hrs;Central de Serviços
+Hardware> Monitor > Sem imagem;SLA - 4hrs;Central de Serviços
+Hardware> Monitor > Solicitar Novo;SLA - 4hrs;Central de Serviços
+Hardware>  Headphone;SLA - 4hrs;Central de Serviços
+Hardware>  Headphone > Trocar Head USB;SLA - 4hrs;Central de Serviços
+Hardware>  Headphone > Trocar Head RJ;SLA - 4hrs;Central de Serviços
+Hardware>  Headphone > Requisição Head USB;SLA - 4hrs;Central de Serviços
+Hardware>  Headphone > Requisição Head RJ;SLA - 4hrs;Central de Serviços
+Hardware>  Impressora;SLA - 4hrs;Central de Serviços
+Hardware > Impressora > Adicionar ;SLA - 4hrs;Central de Serviços
+Hardware > Impressora > Enrroscando Papel;SLA - 4hrs;Central de Serviços
+Hardware > Impressora > Falhando Impressão;SLA - 4hrs;Central de Serviços
+Hardware > Impressora > Não Imprime;SLA - 4hrs;Central de Serviços
+Hardware > Impressora > Não Liga;SLA - 4hrs;Central de Serviços
+Hardware > Impressora > Solicitar Toner;SLA - 4hrs;Central de Serviços
+Hardware > Impressora > Solicitar Troca;SLA - 4hrs;Central de Serviços
+Hardware > Notebook;SLA - 4hrs;Central de Serviços
+Hardware > Notebook > Não Liga;SLA - 4hrs;Central de Serviços
+Hardware > Notebook > Reinicia;SLA - 4hrs;Central de Serviços
+Hardware > Notebook > Solicitar Novo;SLA - 4hrs;Central de Serviços
+Hardware > Notebook > Tela com Defeito;SLA - 4hrs;Central de Serviços
+Hardware > Notebook > Trava;SLA - 4hrs;Central de Serviços
+Hardware > Notebook > Apresenta Lentidão;SLA - 4hrs;Central de Serviços
+Hardware > Notebook > Apresenta Tela Azul;SLA - 4hrs;Central de Serviços
+Hardware > Notebook > Perfil da Máquina / Temporário;SLA - 4hrs;Central de Serviços
+Hardware > Notebook > Criar Usuário / Perfil da Máquina;SLA - 4hrs;Central de Serviços
+Hardware > Notebook >  Sem áudio;SLA - 4hrs;Central de Serviços
+Email;SLA - 4hrs;Central de Serviços
+Email >  Bloquear/Excluir;SLA - 4hrs;Central de Serviços
+Email >  Criar Conta;SLA - 4hrs;Central de Serviços
+Email >  Trocar Senha;SLA - 4hrs;Central de Serviços
+Internet;SLA - 4hrs;Central de Serviços
+Internet > Acesso;SLA - 4hrs;Central de Serviços
+Internet > Acesso > Lentidão;SLA - 4hrs;Central de Serviços
+Internet > Acesso > Liberar Pagina;SLA - 4hrs;Central de Serviços
+Internet > Acesso > Sem acesso;SLA - 4hrs;Central de Serviços
+No-Break;SLA - 4hrs;Central de Serviços
+No-Break > Fazendo Barulho;SLA - 4hrs;Central de Serviços
+No-Break > Manutenção;SLA - 4hrs;Central de Serviços
+No-Break > Não Liga;SLA - 4hrs;Central de Serviços
+Rede;SLA - 4hrs;Central de Serviços
+Rede > Acesso;SLA - 4hrs;Central de Serviços
+Rede > Acesso > Bloquear;SLA - 4hrs;Central de Serviços
+Rede > Acesso > Compartilhamento de pasta;SLA - 4hrs;Central de Serviços
+Rede > Acesso > Nao acessa a Rede;SLA - 4hrs;Central de Serviços
+Rede > Acesso > Resetar Senha;SLA - 4hrs;Central de Serviços
+Rede > Backup/Restore;SLA - 4hrs;Central de Serviços
+Rede > Backup/Restore > Restaurar Backup;SLA - 4hrs;Central de Serviços
+Rede > Conectividade;SLA - 4hrs;Central de Serviços
+Rede > Conectividade > Acessar a Rede WI-FI;SLA - 4hrs;Central de Serviços
+Rede > Conectividade > Excluir Ponto de Rede;SLA - 4hrs;Central de Serviços
+Rede > Conectividade > Instalação de Novo Switch;SLA - 4hrs;Central de Serviços
+Rede > Conectividade > Instalação de Ponto de Rede;SLA - 4hrs;Central de Serviços
+Rede > Conectividade > Instalar Rede WI-FI;SLA - 4hrs;Central de Serviços
+Rede > Conectividade > Modificar Ponto de Rede;SLA - 4hrs;Central de Serviços
+Rede > Conectividade > Queda de Link;SLA - 4hrs;Central de Serviços
+Rede > Internet;SLA - 4hrs;Central de Serviços
+Rede > Internet > Liberar Sites;SLA - 4hrs;Central de Serviços
+Rede >  Intranet;SLA - 4hrs;Central de Serviços
+Rede > Intranet > Publicação;SLA - 4hrs;Central de Serviços
+Servidores;SLA - 4hrs;Central de Serviços
+Servidores > Apresenta Lentidão;SLA - 4hrs;Central de Serviços
+Servidores > Apresenta Tela Azul;SLA - 4hrs;Central de Serviços
+Servidores > Atualização de Firmware;SLA - 4hrs;Central de Serviços
+Servidores > Atualização do Sistema Operacional;SLA - 4hrs;Central de Serviços
+Servidores > Conectividade;SLA - 4hrs;Central de Serviços
+Servidores > Fazendo Barulho;SLA - 4hrs;Central de Serviços
+Servidores > Formatar;SLA - 4hrs;Central de Serviços
+Servidores > Instalação de Sistema Operacional;SLA - 4hrs;Central de Serviços
+Servidores > Instalação de Software;SLA - 4hrs;Central de Serviços
+Servidores > Manutenção do Sistema Operacional;SLA - 4hrs;Central de Serviços
+Servidores > Não Liga;SLA - 4hrs;Central de Serviços
+Servidores > Trava;SLA - 4hrs;Central de Serviços
+Telefonia;SLA - 4hrs;Central de Serviços
+Telefonia > Discador;SLA - 4hrs;Central de Serviços
+Telefonia > VOIP;SLA - 4hrs;Central de Serviços
+Telefonia > VOIP>  Alterar Ramal;SLA - 4hrs;Central de Serviços
+Telefonia > VOIP >  Criar Conta;SLA - 4hrs;Central de Serviços
+Telefonia > VOIP >  Telefone com Ruido;SLA - 4hrs;Central de Serviços
+Telefonia > VOIP >  Telefone Mudo;SLA - 4hrs;Central de Serviços
+;SLA - 4hrs;Central de Serviços
+;SLA - 4hrs;Central de Serviços
+;SLA - 4hrs;Central de Serviços
